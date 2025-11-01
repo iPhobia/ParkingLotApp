@@ -66,7 +66,7 @@
 
 ---
 
-## ⚠️ Faced Issues & Assumptions
+## ⚠️ Faced Issues
 
 - **Missing data**: No information was given on how many spots each parking spot type should provide.  
   → Based on “A van can park in a large spot, but it will take up 3 regular spots”, it is assumed:
